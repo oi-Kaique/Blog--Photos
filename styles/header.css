@@ -7,6 +7,8 @@
 
 header{
     font: var(--text-md);
+    --startY: -100%;
+    animation: move 2s;
 }
 
 header .container{
