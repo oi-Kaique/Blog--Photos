@@ -6,12 +6,12 @@
 
 
 :root {
-    font-size: 62,5%;
+    font-size: 62.5%;
    --font-family: "Poppins", sans-serif;
-   --text-lg: bold 3.2rem/125% var(--font-family);
-   --text:1.6rem/1.5 var(--font-family);
-   --text-md:1.4rem/175% var(--font-family);
-   --text-sm:1.2rem/175% var(--font-family);
+   --text-lg: bold 2rem/125% var(--font-family);
+   --text:1rem/1.5 var(--font-family);
+   --text-md:0.875rem/170% var(--font-family);
+   --text-sm:0.750rem/170% var(--font-family);
 
     --brand-color:#EF5F4C;
     --background-color:#FFFFFF;
